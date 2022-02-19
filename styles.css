@@ -10,6 +10,28 @@
 
 }
 
+.refresh {
+margin-top : 50px;
+text-align: center;
+}
+
+.btn {
+  background: #393E46;
+  background-image: -webkit-linear-gradient(top, #EEEEEE, #393E46);
+  background-image: -moz-linear-gradient(top, #EEEEEE, #393E46);
+  background-image: -ms-linear-gradient(top, #EEEEEE, #393E46);
+  background-image: -o-linear-gradient(top,#EEEEEE, #393E46);
+  background-image: linear-gradient(to bottom, #EEEEEE, #393E46);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Nunito', Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
 body {
   background-color: #393E46;
 }
